@@ -6,8 +6,6 @@ https://mdecd2024.github.io/2b-midbg7
 
 chmod u+x init_replit
 
-./init_replit
-
 On Replit:
 
 for cmsimde: pip install flask flask_cors bs4 lxml pelican markdown gevent
